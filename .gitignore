@@ -1,0 +1,5 @@
+outputs/
+results/
+.pixi/
+__pycache__/
+*.pyc

@@ -1,0 +1,3 @@
+dataset	accuracy	f1	mcc	sensitivity	specificity	source
+sigma70	0.87		0.74	0.90	0.85	Ligeti et al. 2024, Table 3 (ProkBERT-mini)
+multispecies	0.81	0.81	0.63	0.81	0.82	Ligeti et al. 2024, Sec. 3 mixed-species table (ProkBERT-mini)

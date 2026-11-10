@@ -1,0 +1,182 @@
+task	origin	stratum	train	val	test
+1	hf_multispecies	hf|Acinetobacter baumannii ATCC 17978	0	0	135
+1	hf_multispecies	hf|Agrobacterium tumefaciens str C58	0	0	57
+1	hf_multispecies	hf|Bacillus subtilis subsp. subtilis str. 168	0	0	54
+1	hf_multispecies	hf|Bradyrhizobium japonicum USDA 110	0	0	1408
+1	hf_multispecies	hf|Burkholderia cenocepacia J2315	0	0	964
+1	hf_multispecies	hf|Campylobacter jejuni RM1221	0	0	135
+1	hf_multispecies	hf|Campylobacter jejuni subsp. jejuni 81-176	0	0	88
+1	hf_multispecies	hf|Campylobacter jejuni subsp. jejuni 81116	0	0	193
+1	hf_multispecies	hf|Campylobacter jejuni subsp. jejuni NCTC 11168	0	0	62
+1	hf_multispecies	hf|Corynebacterium diphtheriae NCTC 13129	0	0	196
+1	hf_multispecies	hf|Corynebacterium glutamicum ATCC 13032	0	0	332
+1	hf_multispecies	hf|Escherichia coli str K-12 substr. MG1655	0	0	712
+1	hf_multispecies	hf|Haloferax volcanii DS2	0	0	427
+1	hf_multispecies	hf|Helicobacter pylori strain 26695	0	0	205
+1	hf_multispecies	hf|Klebsiella aerogenes KCTC 2190	0	0	78
+1	hf_multispecies	hf|Nostoc sp. PCC7120	0	0	1234
+1	hf_multispecies	hf|Onion yellows phytoplasma OY-M	0	0	20
+1	hf_multispecies	hf|Paenibacillus riograndensis SBR5	0	0	247
+1	hf_multispecies	hf|Pseudomonas putida strain KT2440	0	0	673
+1	hf_multispecies	hf|Shigella flexneri 5a str. M90T	0	0	1246
+1	hf_multispecies	hf|Sinorhizobium meliloti 1021	0	0	1544
+1	hf_multispecies	hf|Staphylococcus aureus subsp. aureus MW2	0	0	267
+1	hf_multispecies	hf|Staphylococcus epidermidis ATCC 12228	0	0	178
+1	hf_multispecies	hf|Streptococcus pyogenes strain S119	0	0	87
+1	hf_multispecies	hf|Synechococcus elongatus PCC 7942	0	0	139
+1	hf_multispecies	hf|Synechocystis sp. PCC 6803	0	0	90
+1	hf_multispecies	hf|Thermococcus kodakarensis KOD1	0	0	254
+1	hf_multispecies	hf|Xanthomonas campestris pv. campestrie B100	0	0	265
+1	hf_multispecies	hf|neg|CDS	0	0	4519
+1	hf_multispecies	hf|neg|RND	0	0	2257
+1	hf_multispecies	hf|neg|comp_kt1_kc3	0	0	4512
+1	hf_multispecies	hf|other	0	0	4
+1	hf_train	hf|Acinetobacter baumannii ATCC 17978	1281	124	0
+1	hf_train	hf|Agrobacterium tumefaciens str C58	578	70	0
+1	hf_train	hf|Bacillus subtilis subsp. subtilis str. 168	567	70	0
+1	hf_train	hf|Bradyrhizobium japonicum USDA 110	12914	1429	0
+1	hf_train	hf|Burkholderia cenocepacia J2315	8221	922	0
+1	hf_train	hf|Campylobacter jejuni RM1221	1308	138	0
+1	hf_train	hf|Campylobacter jejuni subsp. jejuni 81-176	833	84	0
+1	hf_train	hf|Campylobacter jejuni subsp. jejuni 81116	1567	157	0
+1	hf_train	hf|Campylobacter jejuni subsp. jejuni NCTC 11168	504	60	0
+1	hf_train	hf|Corynebacterium diphtheriae NCTC 13129	1332	128	0
+1	hf_train	hf|Corynebacterium glutamicum ATCC 13032	2928	303	0
+1	hf_train	hf|Escherichia coli str K-12 substr. MG1655	6128	673	0
+1	hf_train	hf|Haloferax volcanii DS2	3803	392	0
+1	hf_train	hf|Helicobacter pylori strain 26695	1767	219	0
+1	hf_train	hf|Klebsiella aerogenes KCTC 2190	632	53	0
+1	hf_train	hf|Klebsiella oxytoca KCTC 1686	11	0	0
+1	hf_train	hf|Nostoc sp. PCC7120	11209	1247	0
+1	hf_train	hf|Onion yellows phytoplasma OY-M	181	25	0
+1	hf_train	hf|Paenibacillus riograndensis SBR5	1912	174	0
+1	hf_train	hf|Pseudomonas aeruginosa PAO1	10	0	0
+1	hf_train	hf|Pseudomonas putida strain KT2440	6401	681	0
+1	hf_train	hf|Shigella flexneri 5a str. M90T	10907	1259	0
+1	hf_train	hf|Sinorhizobium meliloti 1021	13917	1541	0
+1	hf_train	hf|Staphylococcus aureus subsp. aureus MW2	2283	271	0
+1	hf_train	hf|Staphylococcus epidermidis ATCC 12228	1813	216	0
+1	hf_train	hf|Streptococcus pyogenes strain S119	717	87	0
+1	hf_train	hf|Synechococcus elongatus PCC 7942	1209	124	0
+1	hf_train	hf|Synechocystis sp. PCC 6803	761	92	0
+1	hf_train	hf|Thermococcus kodakarensis KOD1	2195	270	0
+1	hf_train	hf|Xanthomonas campestris pv. campestrie B100	2478	299	0
+1	hf_train	hf|neg|CDS	40145	4473	0
+1	hf_train	hf|neg|RND	20078	2231	0
+1	hf_train	hf|neg|comp_kt1_kc3	40128	4490	0
+1	hf_train	hf|other	64	8	0
+1	pneumo	pn|SigA	0	0	52
+1	pneumo	pn|SigX	0	0	3
+1	pneumo	pn|neg|CDS	0	0	140
+1	pneumo	pn|neg|IGR	0	0	140
+1	pneumo	pn|unassigned	0	0	85
+2	hf_train	hf|Acinetobacter baumannii ATCC 17978	1281	124	0
+2	hf_train	hf|Agrobacterium tumefaciens str C58	578	70	0
+2	hf_train	hf|Bacillus subtilis subsp. subtilis str. 168	567	70	0
+2	hf_train	hf|Bradyrhizobium japonicum USDA 110	12914	1429	0
+2	hf_train	hf|Burkholderia cenocepacia J2315	8221	922	0
+2	hf_train	hf|Campylobacter jejuni RM1221	1308	138	0
+2	hf_train	hf|Campylobacter jejuni subsp. jejuni 81-176	833	84	0
+2	hf_train	hf|Campylobacter jejuni subsp. jejuni 81116	1567	157	0
+2	hf_train	hf|Campylobacter jejuni subsp. jejuni NCTC 11168	504	60	0
+2	hf_train	hf|Corynebacterium diphtheriae NCTC 13129	1332	128	0
+2	hf_train	hf|Corynebacterium glutamicum ATCC 13032	2928	303	0
+2	hf_train	hf|Escherichia coli str K-12 substr. MG1655	6128	673	0
+2	hf_train	hf|Haloferax volcanii DS2	3803	392	0
+2	hf_train	hf|Helicobacter pylori strain 26695	1767	219	0
+2	hf_train	hf|Klebsiella aerogenes KCTC 2190	632	53	0
+2	hf_train	hf|Klebsiella oxytoca KCTC 1686	11	0	0
+2	hf_train	hf|Nostoc sp. PCC7120	11209	1247	0
+2	hf_train	hf|Onion yellows phytoplasma OY-M	181	25	0
+2	hf_train	hf|Paenibacillus riograndensis SBR5	1912	174	0
+2	hf_train	hf|Pseudomonas aeruginosa PAO1	10	0	0
+2	hf_train	hf|Pseudomonas putida strain KT2440	6401	681	0
+2	hf_train	hf|Shigella flexneri 5a str. M90T	10907	1259	0
+2	hf_train	hf|Sinorhizobium meliloti 1021	13917	1541	0
+2	hf_train	hf|Staphylococcus aureus subsp. aureus MW2	2283	271	0
+2	hf_train	hf|Staphylococcus epidermidis ATCC 12228	1813	216	0
+2	hf_train	hf|Streptococcus pyogenes strain S119	717	87	0
+2	hf_train	hf|Synechococcus elongatus PCC 7942	1209	124	0
+2	hf_train	hf|Synechocystis sp. PCC 6803	761	92	0
+2	hf_train	hf|Thermococcus kodakarensis KOD1	2195	270	0
+2	hf_train	hf|Xanthomonas campestris pv. campestrie B100	2478	299	0
+2	hf_train	hf|neg|CDS	40145	4473	0
+2	hf_train	hf|neg|RND	20078	2231	0
+2	hf_train	hf|neg|comp_kt1_kc3	40128	4490	0
+2	hf_train	hf|other	64	8	0
+2	pneumo	pn|SigA	415	52	52
+2	pneumo	pn|SigX	21	3	3
+2	pneumo	pn|neg|CDS	1119	140	140
+2	pneumo	pn|neg|IGR	1119	140	140
+2	pneumo	pn|unassigned	683	85	85
+3	hf_multispecies	hf|Acinetobacter baumannii ATCC 17978	109	13	13
+3	hf_multispecies	hf|Agrobacterium tumefaciens str C58	42	3	12
+3	hf_multispecies	hf|Bacillus subtilis subsp. subtilis str. 168	42	5	7
+3	hf_multispecies	hf|Bradyrhizobium japonicum USDA 110	1143	140	125
+3	hf_multispecies	hf|Burkholderia cenocepacia J2315	781	90	93
+3	hf_multispecies	hf|Campylobacter jejuni RM1221	104	15	16
+3	hf_multispecies	hf|Campylobacter jejuni subsp. jejuni 81-176	76	3	9
+3	hf_multispecies	hf|Campylobacter jejuni subsp. jejuni 81116	156	20	17
+3	hf_multispecies	hf|Campylobacter jejuni subsp. jejuni NCTC 11168	50	7	5
+3	hf_multispecies	hf|Corynebacterium diphtheriae NCTC 13129	163	13	20
+3	hf_multispecies	hf|Corynebacterium glutamicum ATCC 13032	254	42	36
+3	hf_multispecies	hf|Escherichia coli str K-12 substr. MG1655	572	68	72
+3	hf_multispecies	hf|Haloferax volcanii DS2	345	37	45
+3	hf_multispecies	hf|Helicobacter pylori strain 26695	168	16	21
+3	hf_multispecies	hf|Klebsiella aerogenes KCTC 2190	60	10	8
+3	hf_multispecies	hf|Nostoc sp. PCC7120	985	116	133
+3	hf_multispecies	hf|Onion yellows phytoplasma OY-M	17	2	1
+3	hf_multispecies	hf|Paenibacillus riograndensis SBR5	195	29	23
+3	hf_multispecies	hf|Pseudomonas putida strain KT2440	545	67	61
+3	hf_multispecies	hf|Shigella flexneri 5a str. M90T	996	124	126
+3	hf_multispecies	hf|Sinorhizobium meliloti 1021	1248	151	145
+3	hf_multispecies	hf|Staphylococcus aureus subsp. aureus MW2	214	28	25
+3	hf_multispecies	hf|Staphylococcus epidermidis ATCC 12228	140	20	18
+3	hf_multispecies	hf|Streptococcus pyogenes strain S119	73	8	6
+3	hf_multispecies	hf|Synechococcus elongatus PCC 7942	110	18	11
+3	hf_multispecies	hf|Synechocystis sp. PCC 6803	76	7	7
+3	hf_multispecies	hf|Thermococcus kodakarensis KOD1	210	23	21
+3	hf_multispecies	hf|Xanthomonas campestris pv. campestrie B100	230	18	17
+3	hf_multispecies	hf|neg|CDS	3631	459	429
+3	hf_multispecies	hf|neg|RND	1811	214	232
+3	hf_multispecies	hf|neg|comp_kt1_kc3	3622	445	445
+3	hf_multispecies	hf|other	4	0	0
+3	hf_train	hf|Acinetobacter baumannii ATCC 17978	1123	141	141
+3	hf_train	hf|Agrobacterium tumefaciens str C58	522	68	58
+3	hf_train	hf|Bacillus subtilis subsp. subtilis str. 168	511	64	62
+3	hf_train	hf|Bradyrhizobium japonicum USDA 110	11458	1435	1450
+3	hf_train	hf|Burkholderia cenocepacia J2315	7304	921	918
+3	hf_train	hf|Campylobacter jejuni RM1221	1161	143	142
+3	hf_train	hf|Campylobacter jejuni subsp. jejuni 81-176	728	97	92
+3	hf_train	hf|Campylobacter jejuni subsp. jejuni 81116	1377	172	175
+3	hf_train	hf|Campylobacter jejuni subsp. jejuni NCTC 11168	450	56	58
+3	hf_train	hf|Corynebacterium diphtheriae NCTC 13129	1161	153	146
+3	hf_train	hf|Corynebacterium glutamicum ATCC 13032	2597	314	320
+3	hf_train	hf|Escherichia coli str K-12 substr. MG1655	5439	683	679
+3	hf_train	hf|Haloferax volcanii DS2	3353	425	417
+3	hf_train	hf|Helicobacter pylori strain 26695	1585	203	198
+3	hf_train	hf|Klebsiella aerogenes KCTC 2190	551	66	68
+3	hf_train	hf|Klebsiella oxytoca KCTC 1686	9	1	1
+3	hf_train	hf|Nostoc sp. PCC7120	9967	1253	1236
+3	hf_train	hf|Onion yellows phytoplasma OY-M	163	21	22
+3	hf_train	hf|Paenibacillus riograndensis SBR5	1672	204	210
+3	hf_train	hf|Pseudomonas aeruginosa PAO1	8	1	1
+3	hf_train	hf|Pseudomonas putida strain KT2440	5659	708	715
+3	hf_train	hf|Shigella flexneri 5a str. M90T	9734	1217	1215
+3	hf_train	hf|Sinorhizobium meliloti 1021	12354	1549	1555
+3	hf_train	hf|Staphylococcus aureus subsp. aureus MW2	2043	254	257
+3	hf_train	hf|Staphylococcus epidermidis ATCC 12228	1625	201	203
+3	hf_train	hf|Streptococcus pyogenes strain S119	640	81	83
+3	hf_train	hf|Synechococcus elongatus PCC 7942	1068	129	136
+3	hf_train	hf|Synechocystis sp. PCC 6803	679	87	87
+3	hf_train	hf|Thermococcus kodakarensis KOD1	1965	249	251
+3	hf_train	hf|Xanthomonas campestris pv. campestrie B100	2204	286	287
+3	hf_train	hf|neg|CDS	35678	4455	4485
+3	hf_train	hf|neg|RND	17841	2243	2225
+3	hf_train	hf|neg|comp_kt1_kc3	35682	4468	4468
+3	hf_train	hf|other	56	8	8
+3	pneumo	pn|SigA	415	52	52
+3	pneumo	pn|SigX	21	3	3
+3	pneumo	pn|neg|CDS	1119	140	140
+3	pneumo	pn|neg|IGR	1119	140	140
+3	pneumo	pn|unassigned	683	85	85

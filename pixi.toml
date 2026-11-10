@@ -1,0 +1,20 @@
+[workspace]
+name = "promoter-detector"
+description = "Playing with ProkBERT-mini"
+channels = ["conda-forge"]
+platforms = ["linux-64"]
+
+[dependencies]
+python = "3.12.*"
+
+[pypi-dependencies]
+torch = { version = "==2.15.0", index = "https://download.pytorch.org/whl/cu132" }
+transformers = "==4.57.6"  # 5.x dropped MegatronBERT relative positions (prokbert needs them)
+accelerate = "*"
+datasets = "*"
+scikit-learn = "*"
+pandas = "*"
+matplotlib = "*"
+
+[activation.env]
+PYTHONPATH = "$PIXI_PROJECT_ROOT"
