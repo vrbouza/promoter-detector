@@ -1,6 +1,6 @@
 [workspace]
 name = "promoter-detector"
-description = "Playing with ProkBERT-mini"
+description = "Playing with promoter detection"
 channels = ["conda-forge"]
 platforms = ["linux-64"]
 

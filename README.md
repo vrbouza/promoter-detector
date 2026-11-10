@@ -1,6 +1,6 @@
 # promoter-detector
 
-A small repo to play with ProkBERT-mini.
+A small repo to play with promoter detection!
 
 
 ## Setup
@@ -38,7 +38,7 @@ python evaluation/plot_curves.py           # results/training_curves/<run>_train
 ```
 
 Each step needs the previous one: `score.py` scores the `best/` model and every seed, and the compare scripts only read the
-cached scores. Each comparison needs only its own runs: the first needs task 1, the second tasks 1 and 2, the third task 3 and
+ached scores. Each comparison needs only its own runs: the first needs task 1, the second tasks 1 and 2, the third task 3 and
 task3_authors.
 
 Each training script writes, per seed, `outputs/<run>/seed_<s>/`: the model (`model/`) and its validation metrics (`val.tsv`).
